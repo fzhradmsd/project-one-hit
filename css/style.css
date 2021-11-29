@@ -1,0 +1,35 @@
+body {background-color: rgb(203, 205, 207);
+      font-family: sans-serif;}
+.container {background-color: snow;
+            width:500px;
+            height:400px;
+            margin:auto;
+            margin-top:80px;
+            padding:20px 0;
+            box-sizing:border-box;
+            border-radius: 10px;
+            box-shadow: 0 0 15px rgb(121, 118, 118);
+            }
+
+.logo{border:1px dotted grey;
+      display:block;
+      margin:auto;
+      border-radius:50%;} 
+
+.title {margin:10px auto;
+        color:#535251;
+        border-bottom:3px solid grey;
+        width:170px;
+        }
+
+.desc {text-align: center;
+       color:#535251;
+}        
+.socials {background-color: #bbb8b4;
+          height:60px;
+          text-align: center;
+        
+}  
+.socials img{width:40px;
+             margin:10px;
+}            
